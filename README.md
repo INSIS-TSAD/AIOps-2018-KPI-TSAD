@@ -7,5 +7,7 @@
     * separate_train_data 对应[决赛训练集](https://github.com/NetManAIOps/KPI-Anomaly-Detection/blob/master/Finals_dataset/phase2_train.csv.zip)
     * separate_test_data 对应[决赛测试集](https://github.com/NetManAIOps/KPI-Anomaly-Detection/blob/master/Finals_dataset/phase2_ground_truth.hdf.zip)
     * display_no_missing 相应时序数据的可视化
+    
+* separate_train&test_data 将原始决赛数据集按ID划分，并将train和test部分合并到一起，保存为29条时序数据
 
 原始数据集下载地址：https://github.com/NetManAIOps/KPI-Anomaly-Detection
